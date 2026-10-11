@@ -29,9 +29,6 @@ An Android app that saves Pinterest pins locally. It shows up in Pinterest's Sha
 
 ---
 
-## Screenshots
-
-> _Screenshots can be added later — just upload PNGs to the repo and link them here._
 
 
 ## Screenshots
