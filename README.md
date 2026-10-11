@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # PinSaver
 
 Android app to save Pinterest pins locally.
