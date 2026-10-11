@@ -8,6 +8,10 @@ An Android app that saves Pinterest pins locally. It shows up in Pinterest's Sha
   <img src="https://img.shields.io/badge/Room-2.7.0-3DDC84?logo=android&logoColor=white" alt="Room"/>
   <img src="https://img.shields.io/badge/AGP-9.0.0-3DDC84?logo=android&logoColor=white" alt="AGP"/>
   <img src="https://img.shields.io/badge/minSdk-24-orange" alt="minSdk 24"/>
+  <br/>
+  <img src="https://img.shields.io/github/v/release/chesterlike69/PinSaver" alt="Release"/>
+  <img src="https://img.shields.io/github/downloads/chesterlike69/PinSaver/total" alt="Downloads"/>
+  <img src="https://img.shields.io/github/license/chesterlike69/PinSaver" alt="License"/>
 </p>
 
 ---
